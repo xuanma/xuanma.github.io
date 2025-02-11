@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China, 2017. Mentor: Jiping He, Professor, Ph.D.
+* Ph.D. in Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China, 2017.
+  * Mentor: Jiping He, Professor, Ph.D.
 * B.S. in Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China, 2010
 
 Work experience
