@@ -11,53 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China, 2017. Mentor: Jiping He, Professor, Ph.D.
+* Ph.D. in Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China, 2017. Mentor: Jiping He, Professor, Ph.D.
 * B.S. in Control Science and Engineering, Huazhong University of Science and Technology, Wuhan, China, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* March 2024 – present, research assistant professor, Northwestern University, Chicago, IL
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec. 2017 – Feb. 2023, postdoctoral research fellow, Northwestern University, Chicago, IL
+  * Supervisor: Lee E. Miller, Professor, Ph.D.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2014 - Nov. 2017, co-founder, JOINHEALTH Technology, Wuhan, China
   
-Skills
+Areas of interest/skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Brain computer interface, Motor cortex, Biomedical signal processing, Machine learning, Computational neuroscience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Nonhuman primate electrophysiology skills
+  * Animal behavioral training, brain implantation surgery, data acquisition and analysis with Neuropixels probes, EMG data acquisition and analysis
+
+* Software design and machine learning skills
+  * C/C++, Python, Pytorch, MATLAB
+
+* Engineering skills
+  * Analog and digital electronics system design, PCB design with Altium designer, Mechanical design with Solidworks
+
+The full CV is available [here](xuanma.github.io/files/Xuan Ma current CV.pdf). 
