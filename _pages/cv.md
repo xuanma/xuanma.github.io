@@ -36,4 +36,4 @@ Brain computer interface, Motor cortex, Biomedical signal processing, Machine le
 * Engineering skills
   * Analog and digital electronics system design, PCB design with Altium designer, Mechanical design with Solidworks
 
-The full CV is available [here](xuanma.github.io/files/Xuan Ma current CV.pdf). 
+The full CV is available [here](xuanma.github.io/files/XuanMacurrentCV.pdf). 
