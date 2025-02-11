@@ -17,4 +17,4 @@ I am a tech enthusiast, too. I have built my own DDS signal generators and oscil
 
 Outside of work, I love traveling and exploring new places. To me, life is a journey, and I want to experience as much of it as possible.
 
-<img src='/images/500x300.png'>
+<img src='/images/IMG_4152.jpg'>
