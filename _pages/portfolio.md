@@ -7,6 +7,7 @@ author_profile: true
 
 Structure of neural manifolds underlying diverse motor behaviors
 ====================
+Neural activity is inherently complex and high-dimensional. However, rather than spanning the entire high-dimensional state space—where each axis represents the activity of a single neuron—neural activity at population level is often confined to a low-dimensional subspace. This structured organization provides a simplified and interpretable framework for analyzing neural dynamics, offering insights into how the brain efficiently encodes and processes information.
 <img src='/images/research1.png'>
 
 Neural mechanisms of grasping force control
