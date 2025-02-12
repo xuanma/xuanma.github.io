@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a research assistant professor at Northwestern University, Chicago, United States. I earned my PhD from Huazhong University of Science and Technology, Wuhan, China, in 2017, where I worked with [Prof. Jiping He](https://search.asu.edu/profile/49553) and established a nonhuman primate lab from scratch. I then moved to the US and joined [Prof. Lee Miller's lab](https://miller-limblab.squarespace.com) at Northwestern University as a postdoc, where I investigate how neurons in the brain orchestrates hand movements to advance the development of a brain-controlled functional electrical stimulation (FES) brain-computer interface (BCI).
+I am a research assistant professor at Northwestern University, Chicago, United States. I earned my PhD from Huazhong University of Science and Technology, Wuhan, China, in 2017, where I worked with [Prof. Jiping He](https://search.asu.edu/profile/49553) and established a nonhuman primate lab from scratch. I then moved to the US and joined [Prof. Lee Miller's lab](https://miller-limblab.squarespace.com) at Northwestern University as a postdoc, where I investigate how neurons in the brain orchestrates hand movements to advance the development of a brain-controlled functional electrical stimulation (FES) brain-computer interface (BCI).
 
 **I am an experimental neuroscientist** dedicated to understanding the neural mechanisms that govern body movements, with the goal of developing engineering solutions such as BCI to assist individuals with motor impairments. My research involves recording large-scale neural activity during diverse motor behaviors using advanced electrophysiological tools, including floating microelectrode arrays (FMAs), Utah electrode arrays, and Neuropixels probes.
 
