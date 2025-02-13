@@ -19,7 +19,7 @@ Work experience
 ======
 * March 2024 – present, research assistant professor, Northwestern University, Chicago, IL
 
-* Dec. 2017 – Feb. 2023, postdoctoral research fellow, Northwestern University, Chicago, IL
+* Dec. 2017 – Feb. 2024, postdoctoral research fellow, Northwestern University, Chicago, IL
   * Supervisor: Lee E. Miller, Professor, Ph.D.
 
 * March 2014 - Nov. 2017, co-founder, JOINHEALTH Technology, Wuhan, China
